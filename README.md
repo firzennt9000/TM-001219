@@ -6,3 +6,11 @@ Dependencies:
   - Tensorflow
   - Numpy
   - OpenCV
+
+To test run:
+  1. Download python scripts and move to the 'darknet' directory (of YOLO).
+  2. In the terminal, run:
+    <code>$ python arduino_driver_and_scanner.py name_of_image_file.extension</code>
+    with the image file of the target in the same directory as the script.
+    
+Expected run time: ~ 4 minutes
